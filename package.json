@@ -1,0 +1,14 @@
+{
+  "name": "testonly",
+  "version": "1.0.0",
+  "description": "demo purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ds",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.6.1"
+  }
+}
